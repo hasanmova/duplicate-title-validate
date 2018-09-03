@@ -20,7 +20,7 @@ This plugin tries to detect duplicate post titles. It displays a warning notice 
  
 = Translators =
  
-* persian (fa) - [hasan movahed](http://www.wallfa.com/)
+* persian (fa) - [hasan movahed](https://moalemwp.com/)
 * English (en) - [Noumaan Yaqoob](http://www.wpbeginner.com/)
  
 == Screenshots ==
