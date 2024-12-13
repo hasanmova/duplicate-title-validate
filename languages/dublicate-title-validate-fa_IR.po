@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Duplicate Title Validate 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-13 00:00+0000\n"
+"PO-Revision-Date: 2024-12-13 17:46+0000\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Persian (Iran)\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"X-Loco-Source-Locale: en_FR\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: duplicate-title-validate.php:...
+msgid "You are not allowed to do this."
+msgstr "شما مجوز انجام این کار را ندارید."
+
+#: duplicate-title-validate.php:...
+msgid "Duplicate title detected in: %s. Please change the title."
+msgstr "عنوان تکراری در موارد زیر یافت شد: %s. لطفاً عنوان را تغییر دهید."
+
+#: duplicate-title-validate.php:...
+msgid ""
+"Title used for this post appears to be a duplicate in: %s. Please modify the "
+"title."
+msgstr ""
+"عنوان استفاده‌شده برای این پست در موارد زیر تکراری به نظر می‌رسد: %s. لطفاً "
+"عنوان را اصلاح کنید."
+
+#: duplicate-title-validate.php:...
+msgid "Title is required."
+msgstr "عنوان مورد نیاز است."
+
+#: duplicate-title-validate.php:...
+msgid "Duplicate title detected. Please change the title."
+msgstr "عنوان تکراری شناسایی شد. لطفاً عنوان را تغییر دهید."
