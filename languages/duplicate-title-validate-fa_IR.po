@@ -1,14 +1,13 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Duplicate Title Validate\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-17 09:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: \n"
-"Language: \n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: 2025-01-17 14:07+0000\n"
+"Last-Translator: حسن موحد\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,119 +18,122 @@ msgstr ""
 #. ID
 #: inc/class-settings.php:50
 msgid "Allow Duplicate Titles"
-msgstr ""
+msgstr "اجازه دادن به عناوین تکراری  "
 
 #: inc/class-settings.php:174
 msgid "Allow publishing posts with duplicate titles"
-msgstr ""
+msgstr "اجازه انتشار مطالب با عناوین تکراری"
 
 #: inc/class-settings.php:153
 msgid "Configure the main settings for the Duplicate Title Validate plugin."
-msgstr ""
+msgstr "پیکربندی تنظیمات اصلی افزونه بررسی عنوان تکراری."
 
 #: inc/class-settings.php:162
 msgid "Configure the settings for the Dashboard Widget."
-msgstr ""
+msgstr "پیکربندی تنظیمات ویجت داشبورد."
 
 #: inc/class-settings.php:161
 msgid "Dashboard Widget Settings"
-msgstr ""
+msgstr "تنظیمات ویجت داشبورد"
 
 #: inc/class-settings.php:19
 msgid "Duplicate Title"
-msgstr ""
+msgstr "عنوان تکراری"
 
 #: inc/class-gutenberg.php:107
 msgid "Duplicate Title Checker"
-msgstr ""
+msgstr "بررسی‌کننده عنوان تکراری"
 
 #: duplicate-title-validate/trunk/duplicate-title-validate.php:116
 #, php-format
 msgid "Duplicate title detected in: %s. Please change the title."
-msgstr ""
+msgstr "عنوان تکراری شناسایی شد در: %s. لطفاً عنوان را تغییر دهید."
 
 #: inc/class-gutenberg.php:73
 #, php-format
 msgid "Duplicate title detected in: %s. You can still publish the post."
 msgstr ""
+"عنوان تکراری شناسایی شد در: %s. شما همچنان می‌توانید مطلب را منتشر کنید."
 
 #. Name of the plugin
 msgid "Duplicate Title Validate"
-msgstr ""
+msgstr "بررسی عنوان تکراری"
 
 #: inc/class-settings.php:18 inc/class-settings.php:119
 msgid "Duplicate Title Validate Settings"
-msgstr ""
+msgstr "تنظیمات بررسی عنوان تکراری"
 
 #: inc/class-gutenberg.php:96
 msgid "Duplicate titles found:"
-msgstr ""
+msgstr "عناوین تکراری یافت شد:"
 
 #: inc/class-Similar-Titles-Widget.php:47
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: inc/class-Similar-Titles-Widget.php:50
 msgid "Edit link not available"
-msgstr ""
+msgstr "لینک ویرایش در دسترس نیست"
 
 #: inc/class-Similar-Titles-Widget.php:27
 msgid "Global Similar Titles"
-msgstr ""
+msgstr "عناوین مشابه سراسری"
 
 #. Author of the plugin
 msgid "Hasan Movahed"
-msgstr ""
+msgstr "حسن موحد"
 
 #. ID
 #: inc/class-settings.php:67
 msgid "Limit for Items"
-msgstr ""
+msgstr "محدودیت برای موارد"
 
 #. ID
 #: inc/class-settings.php:42
 msgid "Main Settings"
-msgstr ""
+msgstr "تنظیمات اصلی"
 
 #. ID
 #: inc/class-settings.php:83
 msgid "Max Similar Items"
-msgstr ""
+msgstr "حداکثر موارد مشابه"
 
 #: inc/class-gutenberg.php:97
 msgid "No duplicate titles found."
-msgstr ""
+msgstr "هیچ عنوان تکراری یافت نشد."
 
 #: inc/class-Similar-Titles-Widget.php:59
 msgid "No similar titles found."
-msgstr ""
+msgstr "هیچ عنوان مشابهی یافت نشد."
 
 #. Description of the plugin
 msgid ""
 "Prevents publishing posts with duplicate titles and identifies conflicting "
 "post types or taxonomies. Compatible with Classic Editor and Gutenberg."
 msgstr ""
+"از انتشار مطالب با عناوین تکراری جلوگیری می‌کند و انواع مطالب یا "
+"طبقه‌بندی‌های متناقض را شناسایی می‌کند. سازگار با ویرایشگر کلاسیک و گوتنبرگ."
 
 #: inc/class-settings.php:111
 msgid "Settings Saved"
-msgstr ""
+msgstr "تنظیمات ذخیره شد."
 
 #: inc/class-Similar-Titles-Widget.php:37
 msgid "Similar Titles Across All Types:"
-msgstr ""
+msgstr "عناوین مشابه یافت شده در انواع نوشته ها و دسته ها :"
 
 #: inc/class-classic-editor.php:46
 msgid "Similar Titles:"
-msgstr ""
+msgstr "عناوین مشابه:"
 
 #. ID
 #: inc/class-settings.php:75
 msgid "Similarity Threshold"
-msgstr ""
+msgstr "آستانه شباهت"
 
 #: inc/class-gutenberg.php:62 inc/class-gutenberg.php:88
 msgid "Title is empty."
-msgstr ""
+msgstr "عنوان خالی است."
 
 #: inc/class-classic-editor.php:108
 #: duplicate-title-validate/trunk/duplicate-title-validate.php:180
@@ -140,12 +142,16 @@ msgid ""
 "Title used for this post appears to be a duplicate in: %s. Please modify the "
 "title."
 msgstr ""
+"عنوان استفاده شده برای این مطلب به نظر می‌رسد تکراری باشد در: %s. لطفاً "
+"عنوان را تغییر دهید."
 
 #: duplicate-title-validate/trunk/duplicate-title-validate.php:199
 msgid ""
 "Title used for this post appears to be a duplicate. Please modify the title."
 msgstr ""
+"عنوان استفاده شده برای این مطلب به نظر می‌رسد تکراری باشد. لطفاً عنوان را "
+"تغییر دهید."
 
 #: duplicate-title-validate/trunk/duplicate-title-validate.php:47
 msgid "You are not allowed to do this."
-msgstr ""
+msgstr "شما مجاز به انجام این کار نیستید."

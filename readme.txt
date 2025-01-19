@@ -1,9 +1,9 @@
 === Duplicate Title Validator ===
 Tags: duplicate, title, duplicate checker, taxonomy, localization
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.0
-Stable Tag: 1.4
+Stable Tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,12 @@ This plugin detects duplicate post titles across all post types and taxonomies. 
 - **URL Slug Reminder:** Prompts users to verify and update the URL slug for consistency.
 - **Localization Support:** Fully translated into English and Persian, with options to add other languages.
 - **Editor Compatibility:** Functions smoothly with both Gutenberg and Classic Editor.
+
+### New in Version 1.6
+- **Restructured Plugin Architecture:** The plugin has been rebuilt for better performance, scalability, and maintainability.
+- **Previously Used Titles Display:** Now you can view titles that have been used before, helping you avoid unintentional duplication.
+- **Dashboard Widget for Similar Titles:** A new dashboard widget identifies similar or potentially duplicate titles based on advanced rules, allowing you to review and edit them easily.
+- **Enhanced Editor Compatibility:** Improved integration with both Gutenberg and Classic Editor for a seamless editing experience.
 
 == Installation ==
 
@@ -53,9 +59,19 @@ Updates can be done directly via the WordPress dashboard. Always back up your si
 
 == Screenshots ==
 
-1. **Warning for Duplicate Title in Gutenberg Editor**
+1. screenshot.png
 
 == Upgrade Notice ==
+
+### 1.6
+- **Restructured plugin architecture for better performance and maintainability.**
+- **Added a dashboard widget to identify and manage similar titles.**
+- **Introduced a feature to display previously used titles.**
+- **Improved compatibility with Gutenberg and Classic Editor.**
+- **Enhanced localization support for English and Persian.**
+
+### 1.5
+- Standardization based on the structure required by WordPress support.
 
 ### 1.4
 - Added advanced taxonomy duplication checks.
@@ -80,6 +96,16 @@ Updates can be done directly via the WordPress dashboard. Always back up your si
 - Initial release with title duplication detection and prevention.
 
 == Changelog ==
+
+### 1.6
+- **Restructured plugin architecture for better performance and maintainability.**
+- **Added a dashboard widget to identify and manage similar titles.**
+- **Introduced a feature to display previously used titles.**
+- **Improved compatibility with Gutenberg and Classic Editor.**
+- **Enhanced localization support for English and Persian.**
+
+### 1.5
+- Standardization based on the structure required by WordPress support.
 
 ### 1.4
 - Enhanced taxonomy duplication checks.
@@ -119,4 +145,3 @@ Contributions are welcome! Fork the repository and submit a pull request. Ensure
 == Support ==
 
 For assistance, visit the [WordPress.org support forum](https://wordpress.org/support/plugin/duplicate-title-validator).
-
